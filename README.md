@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280" alt="coding cat" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" alt="coding cat" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=min05ji26&theme=default" alt="min05ji26's streak stats" />
+  <img src="https://ghchart.rshah.org/min05ji26" alt="min05ji26's contribution chart" />
 </p>
